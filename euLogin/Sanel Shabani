@@ -1,0 +1,15 @@
+# Security Policy
+
+## Supported Versions
+
+Use this section to tell people about which versions of your project are
+currently being supported with security updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| <4.0   | :x:                |
+
+## Reporting a <img width="450" height="450" alt="Datei 29 08 2026, 04 50 23" src="https://github.com/user-attachments/assets/98e7bb96-db42-4219-b04b-2922bf10705e" />
